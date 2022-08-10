@@ -1,0 +1,10 @@
+firebaseConfig = {
+  apiKey: "AIzaSyD1Ts2a8SCOKWBm8Ncl2nrSxwqU_QJ-Je4",
+  authDomain: "detaintp.firebaseapp.com",
+  databaseURL: "https://detaintp-default-rtdb.firebaseio.com",
+  projectId: "detaintp",
+  storageBucket: "detaintp.appspot.com",
+  messagingSenderId: "383914364000",
+  appId: "1:383914364000:web:66e7473861ba9b451a0705",
+  measurementId: "G-78XXC6R60Y"
+}
